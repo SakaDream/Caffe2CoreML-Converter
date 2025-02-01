@@ -1,0 +1,2 @@
+coremltools==4.1
+protobuf==3.20.3
